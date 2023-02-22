@@ -1,6 +1,5 @@
 # Simple Python Flask Dockerized Application#
 
-
 - Git clone &
 ```
 git clone https://github.com/manikcloud/Jenkins-cicd.git
