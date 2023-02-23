@@ -13,7 +13,7 @@ git switch  addressbook
 1. Install tomcat
  ```
 sudo apt update -y
-sudo apt install tomcat9 tomcat9-admin -y
+sudo apt install maven tomcat9 tomcat9-admin -y
 
 ```
 2. change the port number 8080 to 8090
